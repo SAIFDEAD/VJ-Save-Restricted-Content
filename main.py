@@ -255,9 +255,7 @@ USAGE = """☞ 𝗙𝗼𝗿 𝗣𝘂𝗯𝗹𝗶𝗰 𝗖𝗵𝗮𝗻𝗻𝗲�
 • Send Public/Private Posts Link As Explained Above With Formate : " From - To " To Send Multiple Messages Like Below ☟ 
 
  𝗙𝗼𝗿𝗺𝗮𝘁𝗲 ☟
-```
 https://t.me/c/xxxx/245-340
-```
 
 𒊹 𝗝𝗼𝗶𝗻 ☞ @Infinity_Backup
 𒊹𝗕𝗼𝘁 𝗕𝘆 ☞ @DRDIC
